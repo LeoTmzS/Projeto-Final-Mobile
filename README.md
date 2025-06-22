@@ -98,7 +98,8 @@ Edição de perfil com dados pessoais e endereço
 
 
 🧑‍💻 Desenvolvedor/Professor
-Leonardo Tomaz da Silva e André Roberto 
+Leonardo Tomaz da Silva - 24050985-2
+André Roberto - 24050984-2
 
 Video de apresentação do projeto: https://youtu.be/hNpYv_S7wtw
 
