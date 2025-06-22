@@ -96,12 +96,18 @@ Simulação de pedidos com data e valor total
 
 Edição de perfil com dados pessoais e endereço
 
-▶️ Playlist das Aulas
-Assista ao passo a passo do desenvolvimento na playlist:
-🔗 YouTube - Loja Virtual https://www.youtube.com/playlist?list=PLMibyndz00bfPuBB5Q5qIsgegevRzBf07
 
 🧑‍💻 Desenvolvedor/Professor
+Leonardo Tomaz da Silva e André Roberto 
+
+Video de apresentação do projeto: https://youtu.be/hNpYv_S7wtw
+
+Inspirado em:
 Rivaldo Roberto da Silva
 Engenharia de Software - Unicesumar
 Analista de Sistemas Sênior | Flutter | Java | APIs REST
+
+▶️ Playlist das Aulas
+Assista ao passo a passo do desenvolvimento na playlist:
+🔗 YouTube - Loja Virtual https://www.youtube.com/playlist?list=PLMibyndz00bfPuBB5Q5qIsgegevRzBf07
 
